@@ -13,3 +13,14 @@ npm install react-bootstrap-icons --save
 ``
 npm i react-multi-carousel
 ``
+
+``
+npm i react-circular-progressbar
+``
+
+``
+npm i react-visibility-sensor
+``
+
+
+
