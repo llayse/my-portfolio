@@ -22,5 +22,19 @@ npm i react-circular-progressbar
 npm i react-visibility-sensor
 ``
 
+``
+npm install express cors nodemailer
+``
 
+``
+npm i react-mailchimp-subscribe
+``
+
+``
+$ npm install animate.css --save
+``
+
+``
+npm i react-on-screen
+``
 
